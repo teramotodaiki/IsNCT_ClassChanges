@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+header{
+	border-bottom: 1px solid #eee;
+}
+
+table, td{
+	 border: 1px solid #888;
+}
+
+footer{
+	background-color: #eee;
+	margin-top: 10px;
+	padding: 10px;
+}
